@@ -1,0 +1,18 @@
+{
+  "name": "soucre-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for DOTTIE community",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.48",
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2",
+    "mongoose": "^7.8.10"
+  }
+}

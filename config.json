@@ -1,0 +1,28 @@
+{
+    "prefix": "!",
+    "colors": {
+        "default": "#2b2d31",
+        "success": "#2ecc71",
+        "error": "#e74c3c",
+        "warning": "#f1c40f",
+        "info": "#3498db"
+    },
+    "logChannelId": "1519187835192606912",
+    "supportRoleIds": [
+        "ID_ROLE_SUPPORT_1"
+    ],
+    "developerIds": [
+        "ID_USER_DEV_1"
+    ],
+    "roleMentionIds": [
+        "1517899422225399848"
+    ],
+    "maxOpenTickets": 3,
+    "ticketCategoryId": null,
+    "ui": {
+        "authorIcon": "src/img/icon.gif",
+        "thumbnail": "src/img/imag.gif",
+        "banner": "thum.gif"
+    },
+    "footer": "DOTTIE MANAGER | version 1.0.0"
+}
